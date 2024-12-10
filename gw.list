@@ -9,6 +9,9 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # TOTAL: 30890
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,battlebreakers.com
 DOMAIN-SUFFIX,eac-cdn.com
 DOMAIN-SUFFIX,easy.ac
