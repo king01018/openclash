@@ -2,14 +2,14 @@ DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
-DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,tracker.pterclub.com
 DOMAIN-SUFFIX,hdarea.club
 DOMAIN-SUFFIX,hares.top
 DOMAIN-SUFFIX,wintersakura.net
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,0ff.cc
 DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,t.audiences.me
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,dajiao.cyou
@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,keepfrds.com
-DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,hddolby.com
@@ -79,7 +78,7 @@ DOMAIN-SUFFIX,tracker.dler.com
 DOMAIN-SUFFIX,h4.trakx.nibba.trade
 DOMAIN-SUFFIX,open.stealth.si
 DOMAIN-SUFFIX,tracker.bitsearch.to
-DOMAIN-SUFFIX,sunnypt.top
+DOMAIN-SUFFIX,t.sunnypt.top
 DOMAIN-SUFFIX,ptlgs.org
 DOMAIN-SUFFIX,lemonhd.club
 DOMAIN-KEYWORD,m-team.cc
@@ -93,7 +92,6 @@ DOMAIN-KEYWORD,totheglory.im
 DOMAIN-KEYWORD,ourbits.club
 DOMAIN-KEYWORD,hdhome.org
 DOMAIN-KEYWORD,keepfrds.com
-DOMAIN-KEYWORD,audiences.me
 DOMAIN-KEYWORD,open.cd
 DOMAIN-KEYWORD,pthome.net
 DOMAIN-KEYWORD,hddolby.com
@@ -167,5 +165,4 @@ DOMAIN-KEYWORD,nicept.net
 DOMAIN-KEYWORD,okpt.net
 DOMAIN-KEYWORD,gtk.pw
 DOMAIN-KEYWORD,agsvpt.com
-DOMAIN-KEYWORD,sunnypt.top
 DOMAIN-KEYWORD,ptlgs.org
